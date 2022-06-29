@@ -5,7 +5,7 @@
 Install with the command:
 
 ```
-npm install --save devacamp-js-footer
+npm i devcamp-js-footer-sumaya
 
 ```
 
